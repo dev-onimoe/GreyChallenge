@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">GreyChallenge</string>
+    <string name="title_activity_stages">StagesActivity</string>
+</resources>
