@@ -28,4 +28,14 @@ The UI automatically updates when data finishes loading
 
 Context is never leaked into the ViewModel or repository layers.
 
-This project can be improved by using specific DI libraries if it increases in size and files, it could also potentially adopt a remote data storage system where data is being generated locally.
+##Demo
+
+
+https://github.com/user-attachments/assets/f96a01f2-48cd-480e-8130-9bb3ad0d6d28
+
+
+
+
+This project can be improved by using specific DI libraries if it increases in size and files, it could also potentially adopt a remote data storage system without data having to be generated locally.
+
+
